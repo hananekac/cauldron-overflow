@@ -2,9 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad7cb2dd-f6d0-4c8b-96c2-2ed7cda08af4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Controller/CommentController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/question/homepage.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/symfony5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/bin/console" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/cache/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/bundles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/assets.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/cache.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/dev/debug.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/dev/easy_log_handler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/dev/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/dev/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/prod/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/prod/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/prod/webpack_encore.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/sensio_framework_extra.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/test/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/test/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/test/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/test/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/test/webpack_encore.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/packages/webpack_encore.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/routes.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/routes/annotations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/routes/dev/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/routes/dev/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/config/services.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/public/images/magic-photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/public/images/tisha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/src/Controller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/src/Controller/CommentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/src/Controller/QuestionController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/src/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/symfony.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/templates/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/templates/question/homepage.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/templates/question/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/tutorial/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/tutorial/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/tutorial/homepage.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/tutorial/images/magic-photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/tutorial/images/tisha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/tutorial/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/finish/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/bin/console" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/cache/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/bundles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/packages/cache.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/packages/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/packages/prod/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/packages/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/packages/test/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/routes.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/routes/dev/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/config/services.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/src/Controller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/src/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/symfony.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/tutorial/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/tutorial/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/tutorial/homepage.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/tutorial/images/magic-photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/tutorial/images/tisha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-symfony/start/tutorial/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/QuestionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/.gitignore" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,22 +111,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+        <entry file="file://$PROJECT_DIR$/templates/question/homepage.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Controller/CommentController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding>
-                <element signature="e#7#73#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="1200">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
@@ -43,35 +124,23 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller/QuestionController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="35">
+              <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
               <folding>
-                <element signature="e#36#101#0#PHP" expanded="true" />
+                <element signature="e#34#99#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/finish/src/Controller/QuestionController.php">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/cache-contracts/CacheInterface.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="40" column="11" selection-start-line="31" selection-start-column="8" selection-end-line="40" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-              <folding>
-                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="-4">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -79,16 +148,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/question/show.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="928">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
-              <folding>
-                <element signature="e#12#26#0#Twig" expanded="true" />
-              </folding>
+            <state relative-caret-position="63">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -101,11 +183,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/templates/question/show.html.twig" />
         <option value="$PROJECT_DIR$/templates/question/homepage.html.twig" />
         <option value="$PROJECT_DIR$/templates/base.html.twig" />
-        <option value="$PROJECT_DIR$/src/Controller/QuestionController.php" />
+        <option value="$PROJECT_DIR$/public/js/question.js" />
         <option value="$PROJECT_DIR$/src/Controller/CommentController.php" />
+        <option value="$PROJECT_DIR$/templates/question/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/Controller/QuestionController.php" />
       </list>
     </option>
   </component>
@@ -212,18 +295,12 @@
       <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
       <path value="$PROJECT_DIR$/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/webpack-encore-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-markdown-bundle" />
     </include_path>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/symfony5.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/php.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-156" />
@@ -239,6 +316,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,35 +324,19 @@
               <item name="symfony5" type="b2602c69:ProjectViewProjectNode" />
               <item name="symfony5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="symfony5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="symfony5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="symfony5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="symfony5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="symfony5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="symfony5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Entity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
   </component>
   <component name="RecentsManager">
@@ -310,17 +372,21 @@
       <workItem from="1609758125210" duration="486000" />
       <workItem from="1609886272480" duration="1315000" />
       <workItem from="1610088622597" duration="1036000" />
-      <workItem from="1610388222155" duration="3903000" />
+      <workItem from="1610388222155" duration="8638000" />
+      <workItem from="1610490156836" duration="1310000" />
+      <workItem from="1610530413302" duration="71000" />
+      <workItem from="1610660305966" duration="2390000" />
+      <workItem from="1610809977246" duration="1690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7446000" />
+    <option name="totallyTimeSpent" value="17642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2700081" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28860146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -333,8 +399,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5138632" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4995958" visible="true" weight="0.7134935" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004042" side_tool="true" weight="0.7134935" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -346,96 +412,68 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/routes.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/base.html.twig">
+    <entry file="file://$PROJECT_DIR$/tutorial/base.html.twig" />
+    <entry file="file://$PROJECT_DIR$/tutorial/show.html.twig" />
+    <entry file="file://$PROJECT_DIR$/tutorial/homepage.html.twig" />
+    <entry file="file://$PROJECT_DIR$/public/js/question.js" />
+    <entry file="file://$PROJECT_DIR$/src/Controller/CommentController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="22" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/show.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="58" />
-          <folding>
-            <element signature="e#12#26#0#Twig" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/homepage.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#12#26#0#Twig" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/question/homepage.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#12#26#0#Twig" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/question/show.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#12#26#0#Twig" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/finish/src/Controller/QuestionController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="40" column="11" selection-start-line="31" selection-start-column="8" selection-end-line="40" selection-end-column="11" />
+        <state relative-caret-position="85">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="192">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/question/homepage.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/finish/src/Controller/QuestionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="40" column="11" selection-start-line="31" selection-start-column="8" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/question/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/cache-contracts/CacheInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/QuestionController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="35">
+          <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
           <folding>
-            <element signature="e#36#101#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/CommentController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#7#73#0#PHP" expanded="true" />
+            <element signature="e#34#99#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
